@@ -1,0 +1,15 @@
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/bin/Debug/net7.0/CSharpCodingProblems
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/bin/Debug/net7.0/CSharpCodingProblems.deps.json
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/bin/Debug/net7.0/CSharpCodingProblems.runtimeconfig.json
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/bin/Debug/net7.0/CSharpCodingProblems.dll
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/bin/Debug/net7.0/CSharpCodingProblems.pdb
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/obj/Debug/net7.0/CSharpCodingProblems.csproj.AssemblyReference.cache
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/obj/Debug/net7.0/CSharpCodingProblems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/obj/Debug/net7.0/CSharpCodingProblems.AssemblyInfoInputs.cache
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/obj/Debug/net7.0/CSharpCodingProblems.AssemblyInfo.cs
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/obj/Debug/net7.0/CSharpCodingProblems.csproj.CoreCompileInputs.cache
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/obj/Debug/net7.0/CSharpCodingProblems.dll
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/obj/Debug/net7.0/refint/CSharpCodingProblems.dll
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/obj/Debug/net7.0/CSharpCodingProblems.pdb
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/obj/Debug/net7.0/CSharpCodingProblems.genruntimeconfig.cache
+/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/obj/Debug/net7.0/ref/CSharpCodingProblems.dll

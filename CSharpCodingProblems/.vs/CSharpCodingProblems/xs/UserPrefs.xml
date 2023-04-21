@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4C592FD3-6F12-42DB-99F7-0FDDB8F1B80B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpCodingProblems/Program.cs">
+    <Files>
+      <File FileName="CSharpCodingProblems/Program.cs" Line="2" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpCodingProblems" expanded="True">
+            <Node name="CSharpCodingProblems" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpCodingProblems" expanded="True">
+            <Node name="CSharpCodingProblems" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSharpCodingProblems PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/Program.cs" relfile="CSharpCodingProblems/Program.cs" line="35" column="1" />
+      <Breakpoint file="/Users/chrismaltez/Rithm/LeetCodeProblems/CSharpCodingProblems/CSharpCodingProblems/Program.cs" relfile="CSharpCodingProblems/Program.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
